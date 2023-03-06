@@ -3,4 +3,4 @@
 build
 *.class
 *.jar
-MainAdmin
+src/test/java/configuration/MainAdmin.java
